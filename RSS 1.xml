@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Neosmart News Feed</title>
+    <link>https://neosmart.ai </link>
+    <description>Latest news from Neosmart</description>
+    <language>es-es</language>
+    <lastBuildDate>
+      <?php echo date("D, d M Y H:i:s T"); ?>
+    </lastBuildDate>
+    <!-- Ejemplo de una noticia -->
+    <item>
+      <title>Elon Musk takes a bath with the masses: he presents the Robotaxi, the Robovan and the Tesla Bot at the same time </title>
+      <link>https://neosmart.ai/elon-musk-presenta-robotaxi-cybercab-robovan-tesla-bot-optimus/</link>
+      <description>Neosmart</description>
+      <guid>https://neosmart.ai/elon-musk-presenta-robotaxi-cybercab-robovan-tesla-bot-optimus/</guid>
+      <pubDate>Fri, 11 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
+    <!-- Repite la estructura del <item> por cada noticia -->
+    <item>
+      <title>Hack exposes disturbing practices on uncensored chatbot website </title>
+      <link>https://neosmart.ai/hack-exposes-disturbing-practices-on-uncensored-chatbot-website/</link>
+      <description>Neosmart</description>
+      <guid>https://neosmart.ai/hack-exposes-disturbing-practices-on-uncensored-chatbot-website/</guid>
+      <pubDate>Fri, 11 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
